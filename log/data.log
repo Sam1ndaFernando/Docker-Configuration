@@ -1,0 +1,6 @@
+2025-03-05T13:26:40.113+05:30  INFO 17220 --- [DockerFIle] [main] c.e.d.DockerFIleApplicationTests         : Starting DockerFIleApplicationTests using Java 21.0.2 with PID 17220 (started by Saami in C:\Users\Saami\OneDrive\Desktop\DockerFIle)
+2025-03-05T13:26:40.116+05:30  INFO 17220 --- [DockerFIle] [main] c.e.d.DockerFIleApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2025-03-05T13:26:42.370+05:30  INFO 17220 --- [DockerFIle] [main] c.e.d.DockerFIleApplicationTests         : Started DockerFIleApplicationTests in 2.801 seconds (process running for 5.404)
+2025-03-05T13:28:11.363+05:30  INFO 9852 --- [DockerFIle] [main] c.e.d.DockerFIleApplicationTests         : Starting DockerFIleApplicationTests using Java 21.0.2 with PID 9852 (started by Saami in C:\Users\Saami\OneDrive\Desktop\DockerFIle)
+2025-03-05T13:28:11.377+05:30  INFO 9852 --- [DockerFIle] [main] c.e.d.DockerFIleApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2025-03-05T13:28:13.703+05:30  INFO 9852 --- [DockerFIle] [main] c.e.d.DockerFIleApplicationTests         : Started DockerFIleApplicationTests in 2.996 seconds (process running for 4.82)
